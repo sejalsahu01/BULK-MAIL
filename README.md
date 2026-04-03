@@ -1,6 +1,6 @@
 # Bulk Email Sender
 
-A user-friendly Streamlit app designed to send personalized bulk emails effortlessly. Whether it's uploading recipient lists or using predefined emails, this app simplifies bulk mailing for students, professionals, and researchers. 🎉
+A user-friendly Streamlit app designed to send personalized bulk emails effortlessly. Whether it's uploading recipient lists or using predefined emails, this app simplifies bulk mailing for students, professionals, and researchers. 
 
 ## Live App
 Try it out here: [Bulk Email Sender](https://bulkymail.streamlit.app) 🚀
